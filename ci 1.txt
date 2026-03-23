@@ -1,0 +1,7 @@
+1. Classify data with KNN algorithm.
+
+Implement the algorithm with the help of the 'mobile.csv' dataset. Visualize purchased and not_purchased data distribution based on age and estimated salary using a scatter plot. Apply MinMaxScaler to the dataset. Predict if the customer will purchase a mobile or not.
+
+2. Apply suitable Regression.
+
+Read computer.csv dataset. Find no. of columns and rows with given dataset. Which regression model fit with given dataset? Build suitable regression model with the data and fetch intercept and coefficient. Visualize Models using pyplot. Compute the Coefficient of 
